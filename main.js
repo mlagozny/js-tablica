@@ -1,3 +1,1 @@
-let zmienna = 'tablica'
-tablica = [1, 3, 5, 9,0];
-console.(zmienna);
+let array = [1, 3, 5, 7];
